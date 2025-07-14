@@ -9,6 +9,11 @@ This project showcases an interactive dashboard built using Power BI to analyze 
 - DAX
 - Power Query
 - Excel (Data Source)
+# 🍕 Pizza Sales Dashboard | Power BI Project
+
+![Pizza Sales Dashboard](Pizza%20Home.png)
+
+This project showcases an interactive dashboard built using Power BI to analyze pizza sales data...
 
 ## 📊 Key Features
 - KPIs: Total Revenue, AOV (Average Order Value), Total Orders, Total Loss
